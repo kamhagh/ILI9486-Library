@@ -1,0 +1,86 @@
+Dependencies for Project 'LCDADC', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x5D1119D8)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DLPC175x_6x-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\lpc17xx.h)(0x58490E5A)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\core_cm3.h)(0x5CF10666)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EFE66)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\cmsis_version.h)(0x5CF10666)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\cmsis_compiler.h)(0x5CF10666)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\cmsis_armcc.h)(0x5CF10666)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\mpu_armv7.h)(0x5CF10666)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\system_LPC17xx.h)(0x58490E5A)
+I (Delay.h)(0x5D0CF9A0)
+I (Clock.h)(0x5CF654ED)
+I (ILI9486.h)(0x5D111DBB)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x599EFE64)
+F (.\system_LPC17xx.c)(0x5CF6A098)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DLPC175x_6x-o .\objects\system_lpc17xx.o --omf_browse .\objects\system_lpc17xx.crf --depend .\objects\system_lpc17xx.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EFE66)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\LPC17xx.h)(0x58490E5A)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\core_cm3.h)(0x5CF10666)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\cmsis_version.h)(0x5CF10666)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\cmsis_compiler.h)(0x5CF10666)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\cmsis_armcc.h)(0x5CF10666)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\mpu_armv7.h)(0x5CF10666)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\system_LPC17xx.h)(0x58490E5A)
+F (.\startup_LPC17xx.s)(0x4F59560E)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-IC:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 527" --pd "LPC175x_6x SETA 1"--list .\listings\startup_lpc17xx.lst --xref -o .\objects\startup_lpc17xx.o --depend .\objects\startup_lpc17xx.d)
+F (.\GPIO.h)(0x5CF506C1)()
+F (.\GPIO.c)(0x5CF5065A)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DLPC175x_6x-o .\objects\gpio.o --omf_browse .\objects\gpio.crf --depend .\objects\gpio.d)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\lpc17xx.h)(0x58490E5A)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\core_cm3.h)(0x5CF10666)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EFE66)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\cmsis_version.h)(0x5CF10666)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\cmsis_compiler.h)(0x5CF10666)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\cmsis_armcc.h)(0x5CF10666)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\mpu_armv7.h)(0x5CF10666)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\system_LPC17xx.h)(0x58490E5A)
+I (stdutils.h)(0x5D0D2145)
+I (gpio.h)(0x5CF506C1)
+F (.\LCD.c)(0x5D0D20E7)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DLPC175x_6x-o .\objects\lcd.o --omf_browse .\objects\lcd.crf --depend .\objects\lcd.d)
+I (LCD.h)(0x5CF539BB)
+I (GPIO.h)(0x5CF506C1)
+I (stdutils.h)(0x5D0D2145)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EFE66)
+I (Delay.h)(0x5D0CF9A0)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\lpc17xx.h)(0x58490E5A)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\core_cm3.h)(0x5CF10666)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\cmsis_version.h)(0x5CF10666)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\cmsis_compiler.h)(0x5CF10666)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\cmsis_armcc.h)(0x5CF10666)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\mpu_armv7.h)(0x5CF10666)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\system_LPC17xx.h)(0x58490E5A)
+F (.\LCD.h)(0x5CF539BB)()
+F (.\Delay.c)(0x5D0CF9A7)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DLPC175x_6x-o .\objects\delay.o --omf_browse .\objects\delay.crf --depend .\objects\delay.d)
+I (Delay.h)(0x5D0CF9A0)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\lpc17xx.h)(0x58490E5A)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\core_cm3.h)(0x5CF10666)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EFE66)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\cmsis_version.h)(0x5CF10666)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\cmsis_compiler.h)(0x5CF10666)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\cmsis_armcc.h)(0x5CF10666)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\mpu_armv7.h)(0x5CF10666)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\system_LPC17xx.h)(0x58490E5A)
+F (.\Delay.h)(0x5D0CF9A0)()
+F (.\Clock.c)(0x5CF654E8)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DLPC175x_6x-o .\objects\clock.o --omf_browse .\objects\clock.crf --depend .\objects\clock.d)
+I (clock.h)(0x5CF654ED)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\lpc17xx.h)(0x58490E5A)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\core_cm3.h)(0x5CF10666)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EFE66)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\cmsis_version.h)(0x5CF10666)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\cmsis_compiler.h)(0x5CF10666)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\cmsis_armcc.h)(0x5CF10666)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\mpu_armv7.h)(0x5CF10666)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\system_LPC17xx.h)(0x58490E5A)
+F (.\Clock.h)(0x5CF654ED)()
+F (.\ILI9486.c)(0x5D111F6A)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DLPC175x_6x-o .\objects\ili9486.o --omf_browse .\objects\ili9486.crf --depend .\objects\ili9486.d)
+I (ILI9486.h)(0x5D111DBB)
+I (Delay.h)(0x5D0CF9A0)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\lpc17xx.h)(0x58490E5A)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\core_cm3.h)(0x5CF10666)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EFE66)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\cmsis_version.h)(0x5CF10666)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\cmsis_compiler.h)(0x5CF10666)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\cmsis_armcc.h)(0x5CF10666)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\mpu_armv7.h)(0x5CF10666)
+I (C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\system_LPC17xx.h)(0x58490E5A)
+I (Font_24x16.h)(0x5D110278)
+F (.\ILI9486.h)(0x5D111DBB)()
+F (.\Font_24x16.h)(0x5D110278)()

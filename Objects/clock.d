@@ -1,0 +1,10 @@
+.\objects\clock.o: Clock.c
+.\objects\clock.o: clock.h
+.\objects\clock.o: C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\lpc17xx.h
+.\objects\clock.o: C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\core_cm3.h
+.\objects\clock.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\clock.o: C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\cmsis_version.h
+.\objects\clock.o: C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\cmsis_compiler.h
+.\objects\clock.o: C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\cmsis_armcc.h
+.\objects\clock.o: C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\mpu_armv7.h
+.\objects\clock.o: C:\Users\Amy\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.5.0\Device\Include\system_LPC17xx.h
